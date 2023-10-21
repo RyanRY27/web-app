@@ -362,7 +362,7 @@ ul li.playing{
   font-size: 18px;
   font-weight: bold;
 }
-
+/* mainweb
 .title p {
   color: white;
   position: absolute;
@@ -371,10 +371,10 @@ ul li.playing{
   left: 710px;
   font-size: 15px;
 }
+*/
 
 
 
-/* lab4 view
 .title p {
   color: white;
   position: absolute;
@@ -383,7 +383,8 @@ ul li.playing{
   left: 375px;
   font-size: 15px;
 }
-*/
+
+/* main web
 .cast h1 {
   color: white;
   position: absolute;
@@ -392,19 +393,17 @@ ul li.playing{
   font-size: 15px;
   font-family: "calibri", sans-serif;
 }
+*/
 
 
-/* lab 4 view
 .cast h1 {
   color: white;
   position: absolute;
   top: 1100px;
-  left: 375px;
+  left: 373px;
   font-size: 15px;
   font-family: "calibri", sans-serif;
 }
-*/
-
 .cast .fist-word {
   font-weight: bold;
   color: red;
